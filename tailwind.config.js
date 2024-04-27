@@ -12,7 +12,11 @@ export default {
         "2xl":"1.75rem",
         "3xl":"2.25rem",
 
-      }
+      },
+      backgroundImage: {
+        'team-bg-image': "url('/public/team/team-avatar.png')",
+        
+      }
     },
   },
   plugins: [],
